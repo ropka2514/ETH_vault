@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c3b9959c8eb13adc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ede80c4db0ec40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cc6582d3fe398ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f07930ad2200b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7e1caf4ab58dff0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d044cfbb1c64648",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#extend",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "945c7ec045d6067c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c37ac4a088b2fae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c09f7a597d610ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5ede80c4db0ec40",
+  "lastOpenFiles": [
+    "lvl4/JE802TrafficGen.md",
+    "lvl4/JE802Station.md",
+    "lvl4/JEWirelessChannel.md",
+    "lvl4/JEEventHandler.md",
+    "lvl4/JE802RouteEval.md",
+    "lvl4/JE802PhyModeEval.md",
+    "lvl4/JE802Phy.md",
+    "lvl3/JEWirelessMedium.md",
+    "lvl4/JE802TCPRetransmissionEval.md",
+    "lvl3/JE802StatEval.md"
+  ]
+}
