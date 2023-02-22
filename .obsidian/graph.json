@@ -8,31 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:lvl1",
+      "query": "path:Computer Networks",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:lvl2",
+      "query": "path:FMFP",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:lvl3",
+      "query": "path:IntroML",
       "color": {
         "a": 1,
-        "rgb": 14147666
-      }
-    },
-    {
-      "query": "path:lvl4",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 6938706
       }
     }
   ],
@@ -42,10 +35,10 @@
   "nodeSizeMultiplier": 2.86657303370787,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 0,
-  "linkStrength": 0.249122191011236,
+  "centerStrength": 0.211140950520833,
+  "repelStrength": 7.91585286458333,
+  "linkStrength": 1,
   "linkDistance": 387,
-  "scale": 1.563127205246301,
+  "scale": 0.546209418916175,
   "close": true
 }

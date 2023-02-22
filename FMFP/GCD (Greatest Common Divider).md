@@ -19,9 +19,9 @@ public static in gcd (int x, int y) {
 
 ### Functional GCD
 ```Haskell
-gcd x y
+gcd x y -- functions and arguments start with lower-case letter
   | x == y    = x
-  | x > y     = gcd (x - y) y
-  | otherwise = gcd x       (y - x)
+  | x > y     = gcd (x - y) y         -- arguments written in sequence
+  | otherwise = gcd x       (y - x)   -- separated by whitespace
 ```
 - Formalizes _**what**_ should be computed, rather than _**how**_
