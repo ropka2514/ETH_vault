@@ -6,7 +6,8 @@
 #### Summary of some common goals, using characteristics of the data
 - Anomaly detection of „unusual“ data points  
 - Identification/discovery of (relevant) unobserved variables (such as features, classes)
-- Compact representation / compression of data sets o Generation of new data
+- Compact representation / compression of data sets
+- Generation of new data
 #### ML methods to learn characteristics of the data (covered in class):
 - [[Clustering]] e.g. for learning similarity and anomaly of points  
 - [[Dimensionality reduction]] e.g. for learning compact representations  

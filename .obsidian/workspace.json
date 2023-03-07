@@ -11,11 +11,44 @@
             "id": "c2022efaa55cfbf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef535f1449ea5ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroML/Supervised Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6910e3a11a494b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroML/Linear regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2e77fdb18cdcf46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "945c7ec045d6067c",
@@ -73,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IntroML/Linear regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +123,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IntroML/Linear regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "dd6e136181f56417",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -110,19 +153,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b7e1caf4ab58dff0",
+  "active": "dd6e136181f56417",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md",
-    "FMFP/Expression evaluation.md",
-    "FMFP/GCD (Greatest Common Divider).md",
-    "FMFP/Functional Programming.md",
-    "AddOns/Images/Pasted image 20230222204609.png",
-    "FMFP/XOR - function definition.md",
-    "Untitled",
-    "Untitled 1.canvas",
     "IntroML/Supervised Learning.md",
     "IntroML/Unsupervised learning.md",
+    "IntroML/Linear regression.md",
+    "FMFP/Haskell.md",
+    "FMFP/Functional Programming.md",
+    "FMFP/GCD (Greatest Common Divider).md",
+    "FMFP/XOR - function definition.md",
+    "FMFP/Expression evaluation.md",
+    "Computer Networks/Untitled.md",
+    "README.md",
+    "Untitled.canvas",
+    "AddOns/Images/Pasted image 20230222204609.png",
+    "Untitled",
+    "Untitled 1.canvas",
     "IntroML/Generative modeling.md",
     "IntroML/Dimensionality reduction.md",
     "IntroML/Clustering.md",
